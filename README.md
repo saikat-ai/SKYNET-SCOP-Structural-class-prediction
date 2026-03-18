@@ -18,7 +18,12 @@ MVKVYAPASSANMSVGFDVLGAAVTPVDGALLGDVVTVEAAETFSLAAG
 
 [2] Predicted structural class and top important features:
     1: alpha helix 2: beta-sheet 3: alpha/beta 4. alpha+beta
-    Top 20 importat 6-mer features are shown
+    Top 5 important 6-mers based on Random Forest's feature importances:
+    6-mer: adkelk with Importance: 0.040147
+    6-mer: gvdaln with Importance: 0.028921
+    6-mer: nklqag with Importance: 0.027508
+    6-mer: kflvvd with Importance: 0.026918
+    6-mer: dkelkf with Importance: 0.025589
+    6-mer: iradga with Importance: 0.022588
 
-[3] Do you want to input another sequence? (yes/no):
-if yes enter another sequence in same way and if no the program will be ended.
+[3] Press q to quit or enter a new sequence
