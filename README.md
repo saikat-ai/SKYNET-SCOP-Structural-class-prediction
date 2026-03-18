@@ -7,10 +7,10 @@ This repository represent SCOP, a hybdrid interpretable ML model to predict prot
 - codes folder contains necessary codes
 
 **Dependencies**
-numpy = 1.19.5
-scikit-learn = 0.24.2
-tensorflow = 2.6.2
-keras = 2.6.0
+- numpy = 1.19.5
+- scikit-learn = 0.24.2
+- tensorflow = 2.6.2
+- keras = 2.6.0
 
 🧬 **Example Usage**
 [1] Enter the protein sequence (Only sequence, without headers):
