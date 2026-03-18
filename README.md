@@ -13,12 +13,13 @@ This repository represent SCOP, a hybdrid interpretable ML model to predict prot
 - keras = 2.6.0
 
 🧬 **Example Usage**
+
 [1] Enter the protein sequence (Only sequence, without headers):
 MVKVYAPASSANMSVGFDVLGAAVTPVDGALLGDVVTVEAAETFSLAAG
 
 [2] Predicted structural class and top important features:
-    1: alpha helix 2: beta-sheet 3: alpha/beta 4. alpha+beta
-    Top 5 important 6-mers based on Random Forest's feature importances:
+    - alpha helix 2: beta-sheet 3: alpha/beta 4. alpha+beta
+    - Top 5 important 6-mers based on Random Forest's feature importances:
     6-mer: adkelk with Importance: 0.040147
     6-mer: gvdaln with Importance: 0.028921
     6-mer: nklqag with Importance: 0.027508
