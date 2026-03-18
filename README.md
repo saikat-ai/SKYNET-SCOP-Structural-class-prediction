@@ -19,6 +19,7 @@ MVKVYAPASSANMSVGFDVLGAAVTPVDGALLGDVVTVEAAETFSLAAG
 
 [2] Predicted structural class and top important features:
     - alpha helix 2: beta-sheet 3: alpha/beta 4. alpha+beta
+    
     - Top 5 important 6-mers based on Random Forest's feature importances:
     6-mer: adkelk with Importance: 0.040147
     6-mer: gvdaln with Importance: 0.028921
