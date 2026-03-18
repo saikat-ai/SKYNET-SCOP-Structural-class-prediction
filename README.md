@@ -1,5 +1,5 @@
 **SKYNET (SCOP K-mer Hybrid Network)**
-This repository represent SCOP, a hybdrid interpretable ML model to predict protein structural class from sequence.
+This repository represent SCOP, a hybdrid interpretable ML model to predict protein structural class from sequence. The manuscript for this project is titled 'SKYNET: An Interpretable Hybrid Network For Protein Structural Class Prediction'.
 
 🚀 **Folder structure**
 - Dataset folder contains all the datasets
