@@ -14,7 +14,7 @@ This repository represent SCOP, a hybdrid interpretable ML model to predict prot
 
 🧬 **Example Usage**
 
-[1] Enter the protein sequence (Only sequence, without headers):
+[1] Run the prediction.py code. Enter the protein sequence (Only sequence, without headers):
 MVKVYAPASSANMSVGFDVLGAAVTPVDGALLGDVVTVEAAETFSLAAG
 
 [2] Predicted structural class and top important features:
